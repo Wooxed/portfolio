@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wooxed/portfolio/static/css/main.4655f920.css",
+    "main.js": "/Wooxed/portfolio/static/js/main.8a30fe4d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Wooxed/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Wooxed/portfolio/index.html",
+    "main.4655f920.css.map": "/Wooxed/portfolio/static/css/main.4655f920.css.map",
+    "main.8a30fe4d.js.map": "/Wooxed/portfolio/static/js/main.8a30fe4d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Wooxed/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4655f920.css",
+    "static/js/main.8a30fe4d.js"
+  ]
+}
