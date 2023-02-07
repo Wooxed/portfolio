@@ -1,0 +1,42 @@
+.contactBlock {
+    background-color: #cdf3aa;
+    height: 80vh;
+}
+.contactContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    background-color: #f5def5;
+    align-self: center;
+    padding: 25px;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 300px;
+    width: 80%;
+    max-width: 500px;
+    background-color: #95b2f6;
+    padding: 30px;
+}
+
+.button {
+    width: 170px;
+    height: 44px;
+    background: #cd7ef6;
+    /*padding: 0 25px;*/
+    /*position: revert; */
+    cursor: pointer;
+    box-shadow: 4px 4px #0b0b13;
+    line-height: 42px;
+    border: 1px solid transparent;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    /*text-decoration: none;*/
+}

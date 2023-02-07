@@ -1,0 +1,30 @@
+.hireMeBlock {
+    background-color: cornsilk;
+    height: 80vh;
+    border: #0b0b13;
+}
+.hireMeContainer {
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+
+}
+.title {
+    align-items: flex-start;
+    padding: 25px;
+}
+.button {
+    width: 170px;
+    height: 44px;
+    background: #cd7ef6;
+    padding: 0 25px;
+    position: center;
+    box-shadow: 4px 4px #0b0b13;
+    line-height: 42px;
+    border: 1px solid transparent;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}

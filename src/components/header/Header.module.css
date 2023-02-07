@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: start;
+    height: 80px;
+    background-color: #a9bcef;
+}
+.headerContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: flex-start;
+    border: none;
+    flex-wrap: nowrap;
+}
+

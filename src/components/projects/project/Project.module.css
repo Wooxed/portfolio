@@ -1,0 +1,38 @@
+.project {
+    width: 400px;
+}
+.projectImgContainer {
+    height: 300px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    width: 170px;
+    height: 44px;
+    background: #cd7ef6;
+    padding: 0 25px;
+    position: center;
+    cursor: pointer;
+    box-shadow: 4px 4px #0b0b13;
+    line-height: 42px;
+    border: 1px solid transparent;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.projectInfo {
+    padding: 10px;
+    height: 100px;
+    background-color: #d1b4da;
+}
+.title {
+    background-color: #95b2f6;
+}
+.description {
+    background-color: darksalmon;
+    height: 50%;
+}
